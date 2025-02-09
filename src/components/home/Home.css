@@ -1,0 +1,39 @@
+.home-controls{
+    width: 75%;
+    background-color: PapayaWhip;
+    border: var(--main-content-border);
+    border-radius: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+}
+.home-page-content{
+    display:flex;
+    margin-top: 10px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.exit-btn{
+    background-color: #f08080;
+}
+@Media(max-width: 1211px){
+    @Media(min-width: 764px){
+        .home-page-content{
+            width: 100%;
+        }
+        .home-controls{
+            width: 90%;
+        }
+    }
+}
+
+@Media(max-width: 764px){
+    .home-page-content{
+        width: 100%;
+    }
+    .home-controls{
+        width: 90%;
+    }
+}

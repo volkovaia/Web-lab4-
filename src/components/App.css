@@ -1,0 +1,11 @@
+:root{
+    --page-control-color: #bdb76b;
+}
+header{
+    margin-bottom: 20px;
+}
+.page-title-text{
+    text-align: center;
+    margin-bottom: 5px;
+    color: darkgreen;
+}
