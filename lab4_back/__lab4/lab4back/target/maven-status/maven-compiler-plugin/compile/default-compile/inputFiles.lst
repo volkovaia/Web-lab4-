@@ -1,0 +1,14 @@
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\ApiApplication.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Controllers\AuthController.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Controllers\PointController.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Data\AuthDTO.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Data\PointsDTO.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Entities\Point.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Entities\User.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Filters\CORSFilter.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Models\Auth.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Models\PointCollection.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Services\Encrypt.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Services\PointRepository.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Services\UserRepository.java
+C:\Prog\4LAB_WEB\lab4_back\__lab4\lab4back\src\main\java\org\lia\lab4back\Session\UserData.java
